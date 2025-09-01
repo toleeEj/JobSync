@@ -1,0 +1,36 @@
+# ----------------------
+# Python / Django
+# ----------------------
+# Virtual environment
+backend-venv/
+.venv/
+
+# Python cache files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Django files
+*.log
+*.pot
+db.sqlite3
+media/
+staticfiles/
+
+# Environment variables
+.env
+.env.*
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Testing / coverage
+.coverage
+htmlcov/
+.pytest_cache/
