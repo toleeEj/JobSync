@@ -1,0 +1,35 @@
+[33mcommit 9caca58af7b99f868104f24a123d78ea7158b13b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: toleeEj <tolesaejara@gmail.com>
+Date:   Sat Sep 6 16:58:46 2025 +0300
+
+    added swagger for api documentations
+
+[33mcommit 5c91f0a07a5c9c720ba195911ed06d5f67207aef[m
+Author: toleeEj <tolesaejara@gmail.com>
+Date:   Sat Sep 6 16:52:23 2025 +0300
+
+    added swagger for api documentation
+
+[33mcommit 55f2fd0b97e3a4933c1248bf92c897ab35f52348[m
+Author: Tolee <154551183+toleeEj@users.noreply.github.com>
+Date:   Mon Sep 1 14:47:22 2025 +0300
+
+    Update README.md
+
+[33mcommit 4f0622b2678c503355075f64a88f88800ba5f7bb[m
+Author: Tolee <154551183+toleeEj@users.noreply.github.com>
+Date:   Mon Sep 1 14:46:47 2025 +0300
+
+    Create README.md
+
+[33mcommit 981b6ac269cb7bd4c0c6a04eeb27b500c8a205a7[m
+Author: toleeEj <tolesaejara@gmail.com>
+Date:   Mon Sep 1 14:38:34 2025 +0300
+
+    Convert frontend from submodule to normal folder
+
+[33mcommit 23bf6e7be4f2e44d1c03aa204760c10fbd54773b[m
+Author: toleeEj <tolesaejara@gmail.com>
+Date:   Mon Sep 1 14:10:10 2025 +0300
+
+    Initial commit: setup backend and frontend with .gitignore
